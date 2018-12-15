@@ -23,7 +23,7 @@ Terrain Display should no longer show water (oceans)
 
 v1.16.0
 
-18 Added: New feature, ISFD Instrument Added (Chronos to follow)  
+18  Added: New feature, ISFD Instrument Added (Chronos to follow)  
 149 Fixed: Lateral Deviation was inverted  
 144 Fixed: LNAV path deviation superimposed with ILS localizer deviation  
 153 Added: Option to enable UI to be minimized on startup  
