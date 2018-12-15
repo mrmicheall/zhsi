@@ -6,6 +6,8 @@ Please see the Wiki (https://gitlab.com/sum1els737/zhsi-releases/wikis/ZHSI) for
 
 ## Changelog
 
+`all issues change logs below this line, was old issues from bitbucket`
+
 #### v1.17.1 (bugfix)
 
 **162 Fixed:** Fix rings sometimes not shown, due to incorrect apt.dat parsing resulting in no lat/lon data for some airports.
