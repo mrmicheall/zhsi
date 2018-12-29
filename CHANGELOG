@@ -13,6 +13,8 @@ PLEASE have a look at the new Wiki, important information regarding running ZHSI
 #19 Added: REF Speed and Flaps setting on PFD
 #23 Fixed: For some hardware MCPs, the VOR lines did not rotate to selected course. Should be fixed now.
 
+Other additions: Electrical Display and IRS Display (still some bugs with IRS) under Gauges/Instruments
+
 IMPORTANT Changes: Network mapped drive of X-Plane directory is no longer required for those running on a networked PC. Nav Data can be copied over to the ZHSI nav folder (zhsi_nav_data), please see Wiki for more details : https://gitlab.com/sum1els737/zhsi-releases/wikis/ZHSI#nav-data-x-plane-directory
 
 Terrain Tiles: All terrain tiles are loaded into memory, so if required, only load the tiles needed for the regions you fly. Please see the Wiki for more details: https://gitlab.com/sum1els737/zhsi-releases/wikis/ZHSI#terrain-data-egpws-directory
@@ -21,6 +23,13 @@ I recommend at least 2G of max Java heap memory, please see Wiki for more info: 
 If you would like to find the current max heap size your OS assigns by default, have a look at the following line in ZHSI.log:
 
 [2018-12-28 17:35:31] CONFIG: Max  Memory: 1820M ( org.andreels.zhsi.e / <init> )
+
+
+
+
+
+
+
 
 ***all issues/change logs below this line, was old issues from bitbucket***
 
