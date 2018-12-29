@@ -2,7 +2,7 @@ v2.0.0
 ------
 *** all issues now on gitlab - https://gitlab.com/sum1els737/zhsi-releases/issues , this will be the official changelog from now on.
 
-New JavaFX UI (please keep the "zhsi_lib" folder in the same directory as the .jar. It is the library for some UI elements)
+New JavaFX UI (please keep the "ZHSI_libs" folder in the same directory as the .jar. It is the library for some UI elements)
 Registration key no longer needed, it just created more work for me and some people are still dishonest and use it for commercial purposes without permission, so I don't see the point.
 
 PLEASE have a look at the new Wiki, important information regarding running ZHSI, Nav Data parsing and Terrain Tiles : https://gitlab.com/sum1els737/zhsi-releases/wikis/ZHSI
