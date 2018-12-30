@@ -1,3 +1,14 @@
+v2.0.1
+------
+
+#8	Added: Lower DU switch logic for Engine display only, still need to do ND
+#24	Fixed: Main DU switch logic fixed
+#25	Fixed: ENG2 Fail should be displayed correctly
+#26	Fixed: Flight Director should be now displayed correctly for Zibo v3.32+
+#30	Fixed: When creating fix ring, font is enlarged. Should hopefully be fixed now.
+#22	Added: FPV indicator on PFD
+
+
 v2.0.0
 ------
 *** all issues now on gitlab - https://gitlab.com/sum1els737/zhsi-releases/issues , this will be the official changelog from now on.
