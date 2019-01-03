@@ -1,3 +1,17 @@
+v2.1.0
+------
+!!! IMPORTANT !!! since v2.1.0, you need to install the zhsi-plugin version 0.1 (https://gitlab.com/sum1els737/zhsi-releases/tree/master/zhsi-plugin)
+For more details about the new plugin see : https://gitlab.com/sum1els737/zhsi-releases/wikis/ZHSI#plug-in
+
+The reason for the new plugin is that I have more control, I can also add custom datarefs if needed. Added some debug logging to Log.txt
+Plugin version can be checked via dataref : zhsi/plugin/version or the Plugin menu in X-Plane.
+
+#26	Fixed: I had the F/D bars messed up. Hopefully fixed now.
+#33	Fixed: ND Vert Path was not showing on ND, should be fixed now.
+#34	Added: Direct to Waypoint Intercept Course *EXPERIMENTAL* might have issues, feedback appreciated.
+
+Other issues: on some Linux machines, the UI was not showing, this should be fixed, UI can also me resized if needed.
+
 v2.0.1
 ------
 
