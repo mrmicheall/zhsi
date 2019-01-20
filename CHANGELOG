@@ -1,3 +1,15 @@
+v2.2.0
+------
+
+* New UI
+* New Feature - Annunciators, please Wiki for more info : https://gitlab.com/sum1els737/zhsi-releases/wikis/ZHSI#annunciators
+* Added windows_run.bat file for Windows users that have issues with double-clicking the jar file
+* Some users experience issues with no magenta line for the flightplan, this should hopefully be fixed now.
+
+#5	Added: Radio Magnetic Indicator (RMI) added, although not quite finished, still needs to do the flags
+
+
+
 v2.1.0
 ------
 !!! IMPORTANT !!! since v2.1.0, you need to install the zhsi-plugin version 0.1 (https://gitlab.com/sum1els737/zhsi-releases/tree/master/zhsi-plugin)
